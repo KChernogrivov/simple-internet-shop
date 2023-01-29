@@ -1,7 +1,7 @@
 <?php
 
 // URL сайта. В конце обязательно '/'
-const BASE_URL = 'http://store/';
+const BASE_URL = 'https://kchernogrivov.github.io/simple-internet-shop/';
 
 //Подключение к базе данных -  хост :: пользователь :: пароль :: имя базы
 $db = mysqli_connect('localhost', 'root', '', 'store');
